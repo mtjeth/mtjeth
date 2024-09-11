@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my technical skills.<br>👯 I’m looking to collaborate on web based projects. <br>🌱 I’m currently working at [![Addis Software](https://addissoftware.com)].<br>💬 Ask me about anything related to Technology, Linux and Programming. 
+🔭 I’m currently working on developing my technical skills.<br>👯 I’m looking to collaborate on web based projects. <br>🌱 I’m currently working at [Addis Software](https://addissoftware.com).<br>💬 Ask me about anything related to Technology, Linux and Programming. 
 
 
 ## 🌐 Socials:
